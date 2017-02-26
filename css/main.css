@@ -8,3 +8,7 @@ header {
     width: 100%;
     max-width: 400px;
 }
+
+#images img {
+    width: 100%;
+}
