@@ -19,6 +19,30 @@ header {
     width: 100%;
 }
 
+#blue {
+    width: 100px;
+    height: 100px;
+    background: #040f5d;
+}
+
+#orange {
+    width: 100px;
+    height: 100px;
+    background: #ab3501;
+}
+
+#brown {
+    width: 100px;
+    height: 100px;
+    background: #3c1601;
+}
+
+#gray {
+    width: 100px;
+    height: 100px;
+    background: #6c6e6e;
+}
+
 #logo {
     width: 100%;
     max-width: 400px;
