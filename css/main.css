@@ -48,10 +48,17 @@ header img {
 .headline {
     font-family: 'bit';
     color: #040f5d;
+    font-size: 1.5em;
 }
 
-p {
+.subhead {
     font-family: 'bit';
+    color: #3c1601;
+    font-size: 1.2em;
+}
+
+.paragraph {
+    font-family: 'start';
 }
 
 #blue {
@@ -95,4 +102,10 @@ p {
     padding: 0;
     position: absolute;
     width: 1px;
+}
+
+footer {
+    font-family: 'start';
+    color: #ab0303;
+    width: 100%;
 }
