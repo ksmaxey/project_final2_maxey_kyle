@@ -8,6 +8,11 @@ html {
     box-sizing: inherit;
 }
 
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
 header {
     margin: 0;
     padding: 0;
