@@ -8,6 +8,10 @@ html {
     box-sizing: inherit;
 }
 
+body {
+    background-color: #040f5d;
+}
+
 .container {
     max-width: 1000px;
     margin: 0 auto;
@@ -17,6 +21,11 @@ header {
     margin: 0;
     padding: 0;
     width: 100%;
+    background-color: #6c6e6e;
+}
+
+#type {
+    background-color: #6c6e6e;
 }
 
 #blue {
@@ -50,6 +59,10 @@ header {
 
 #images img {
     width: 100%;
+}
+
+#clicks {
+    background-color: #ab3501;
 }
 
 .visuallyhidden {
