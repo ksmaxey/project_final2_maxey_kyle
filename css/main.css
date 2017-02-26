@@ -17,6 +17,16 @@ body {
     margin: 0 auto;
 }
 
+@font-face {
+    font-family: bit;
+    src: url('../fonts/bit-webfont.ttf');
+}
+
+@font-face {
+    font-family: start;
+    src: url('../fonts/start-webfont.ttf');
+}
+
 header {
     margin: 0 auto;
     padding: 0;
@@ -33,6 +43,15 @@ header img {
 
 #type {
     background-color: #6c6e6e;
+}
+
+.headline {
+    font-family: 'bit';
+    color: #040f5d;
+}
+
+p {
+    font-family: 'bit';
 }
 
 #blue {
