@@ -93,6 +93,27 @@ header img {
     background-color: #ab3501;
 }
 
+.button {
+    display: inline-block;
+    padding: 0 45px;
+    font-size: 14px;
+    font-family: 'bit';
+    cursor: pointer;
+    text-align: center;
+    color: #ab0303;
+    background-color: #6c6e6e;
+    border-radius: 8px;
+    box-shadow: 0 7px #999999;
+}
+
+.button:hover {background-color: #6c6e6e}
+
+.button:active {
+    background-color: #6c6e6e;
+    box-shadow: 0 5px #3b444c;
+    transform: translateY(3px);
+}
+
 .visuallyhidden {
     border: 0;
     clip: rect(0 0 0 0);
@@ -108,4 +129,9 @@ footer {
     font-family: 'start';
     color: #ab0303;
     width: 100%;
+    background-color: #3c1601;
+}
+
+footer p {
+    padding: 20px;
 }
