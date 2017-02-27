@@ -43,6 +43,10 @@ header img {
     margin: 0 auto;
 }
 
+img {
+    width: 100%;
+}
+
 #type {
     background-color: #6c6e6e;
     padding: 20px;
@@ -197,13 +201,11 @@ footer {
     color: #ab0303;
     width: 100%;
     background-color: #3c1601;
-    position: absolute;
-    bottom: 0;
+    display: inline-block;
 }
 
 footer p {
     padding: 20px;
-    margin: auto;
     text-align: center;
 }
 
@@ -255,5 +257,12 @@ footer p {
     #swatches {
         float: right;
         padding-right: 40px;
+    }
+
+    footer {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        display: block;
     }
 }
