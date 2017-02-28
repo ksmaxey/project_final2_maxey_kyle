@@ -103,10 +103,9 @@ li {
 }
 
 #clicks {
-    background-color: #ab3501;
-    padding: 80px 0 10px 20px;
-    max-width: 500px;
-    margin: auto;
+    padding: 10px;
+    margin: 0 auto;
+    display: inline-block;
 }
 
 .button {
@@ -210,10 +209,59 @@ footer p {
 }
 
 @media all and (min-width: 500px) {
+    #type {
+        width: 50%;
+        font-size: 0.75em;
+    }
 
+    #imagery {
+        width: 50%;
+        padding: 20px;
+        float: right;
+    }
+
+    ul li {
+        display: inline-block;
+    }
+
+    #swatches {
+        padding-top: 20px;
+    }
 }
 
-@media all and (min-width: 700px) {
+/* @media all and (min-width: 800px) {
+    #type {
+        width: 50%;
+        font-size: 0.75em;
+        float: left;
+    }
+
+    #imagery {
+        width: 50%;
+        float: right;
+        padding: 20px;
+    }
+
+    #imagery img {
+        max-width: 300px;
+        float: right;
+    }
+
+    ul {
+        float: left;
+        padding-top: 50px 0 50px 0;
+    }
+
+    ul li {
+        display: inline;
+        width: 100%;
+        padding: 30px;
+    }
+
+    #clicks {
+        display: inline-block;
+        float: left;
+    }
 
 }
 
@@ -233,10 +281,6 @@ footer p {
 
     #imagery img {
         width: calc(100% / 3);
-    }
-
-    #van {
-        max-width: 210px;
     }
 
     ul {
@@ -265,4 +309,4 @@ footer p {
         width: 100%;
         display: block;
     }
-}
+} */
