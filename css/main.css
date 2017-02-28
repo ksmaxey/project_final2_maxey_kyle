@@ -14,7 +14,7 @@ body {
 
 .container {
     width: 100%;
-    max-width: 1400px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 10px;
 }
@@ -231,9 +231,13 @@ footer p {
 
 @media all and (min-width: 700px) {
 
+    #type {
+        width: 50%;
+        font-size: 0.75em;
+    }
+
     #imagery {
-        max-width: 300px;
-        padding-right: 30px;
+        width: 50%;
     }
 
     #swatches {
@@ -246,47 +250,37 @@ footer p {
     }
 }
 
-/* @media all and (min-width: 950px) {
+@media all and (min-width: 950px) {
     #type {
-        width: 25%;
+        width: 30%;
         float: left;
         font-size: 0.75em;
+        display: inline-block;
     }
 
     #imagery {
-        float: right;
-        width: 75%;
-        padding-left: 50px;
+        float: left;
+        width: 70%;
+        display: inline-block;
     }
 
     #imagery img {
         width: calc(100% / 3);
     }
 
+    #clicks {
+        display: inline-block;
+    }
+
     ul {
-        float: right;
-        padding-top: 20px;
+        display: inline-block;
     }
 
     ul li {
-        display: inline-block;
         padding: 50px;
     }
 
-    #clicks {
-        display: inline-block;
-        float: left;
-    }
-
-    #swatches {
-        float: right;
-        padding-right: 40px;
-    }
-
     footer {
-        position: absolute;
-        bottom: 0;
         width: 100%;
-        display: block;
     }
-} */
+}
