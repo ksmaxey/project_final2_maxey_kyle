@@ -48,7 +48,7 @@ img {
 }
 
 #type {
-    background-color: #6c6e6e;
+    background-color: #999999;
     padding: 20px;
     display: inline-block;
 }
@@ -67,6 +67,7 @@ img {
 
 .paragraph {
     font-family: 'start';
+    line-height: 1.5;
 }
 
 li {
