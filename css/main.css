@@ -70,6 +70,10 @@ img {
     line-height: 1.5;
 }
 
+#ralph {
+    padding-top: 10px;
+}
+
 li {
     list-style-type: none;
 }
@@ -77,7 +81,8 @@ li {
 #blue,
 #orange,
 #brown,
-#gray {
+#gray,
+#red {
     border: solid 5px white;
     width: 100px;
     height: 100px;
@@ -97,6 +102,10 @@ li {
 
 #gray {
     background: #6c6e6e;
+}
+
+#red {
+    background: #ab0303;
 }
 
 #imagery {
