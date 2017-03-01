@@ -125,17 +125,17 @@ li {
     cursor: pointer;
     text-align: center;
     color: #ab0303;
-    background-color: #6c6e6e;
+    background-color: #999999;
     border-radius: 8px;
-    box-shadow: 0 7px #999999;
+    box-shadow: 0 7px #6c6e6e;
 }
 
 .button:hover {
-    background-color: #6c6e6e;
+    background-color: #999999;
 }
 
 .button:active {
-    background-color: #6c6e6e;
+    background-color: #999999;
     box-shadow: 0 5px #3b444c;
     transform: translateY(3px);
 }
