@@ -1,19 +1,24 @@
 # Links
 
-[Github](https://github.com/ksmaxey/project_transformation_maxey_kyle)
+[Github](https://github.com/ksmaxey/project_final2_maxey_kyle)
 
-[Web Host](http://www.ksmaxey.com/responsive/)
+[Web Host](http://www.ksmaxey.com/ralph/)
 
-[W3C Validator](https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.ksmaxey.com%2Fresponsive%2F&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en)
+[W3C Validator](https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.ksmaxey.com%2Fralph%2F&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en)
 
-[HTML5 Validator](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fwww.ksmaxey.com%2Fresponsive%2F)
+[HTML5 Outliner](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fwww.ksmaxey.com%2Fralph%2F)
 
 # Resources
 
-https://yoast.com/meta-descriptions/https://codepen.io/kkdawg/pen/ZOGYGghttp://css3buttongenerator.com/https://github.com/IanLunn/Hover/blob/master/css/hover.csshttps://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_animate3http://codepen.io/kaisermann/pen/xZWVrG
+* [Yoast](https://yoast.com/meta-descriptions/)
+  * I used this link to get a better understanding of why we should use the meta description tag in our HTML.  It also provided some helpful hints on generating a beneficial meta description.* [CSS Speech Bubble](http://codepen.io/kaisermann/pen/xZWVrG)
+  * I used a variation of this code to generate the perfect speech bubble that I will use for my site links.* [Button Animation](https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_animate3)
+  * I used this code as well to create my Nintendo push button effect for my site's buttons.
     
 # Deductions
+
 I reviewed the list of deductions for this project and in the syllabus.
 
 # Comments
-I thought this assignment was really great!  It gave me my first taste of truly responsive design and I learned a lot.  I had a couple of minor hiccups, but the shadow on the banner really gave me trouble.  I cannot wait to use skills obtained through this assignment to update my personal site! _Thank you!_
+
+This assignment really challenged me, but I feel like I learned a lot throughout the process.  The biggest thing I learned however is to not do the largest screen resolution media queries first!  Looking forward to creating the finished site! _Thank you!_
